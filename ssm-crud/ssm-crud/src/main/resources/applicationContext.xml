@@ -46,7 +46,7 @@
     <tx:advice id="myAdvice" transaction-manager="transationManage">
         <tx:attributes>
             <!--给具体方法配置事务属性，method方法可以有多个
-            name：方法名称，不带包和类
+            name：方法名称，不带包和类c
                   方法可以使用通配符
             -->
             <tx:method name="*/"></tx:method>
