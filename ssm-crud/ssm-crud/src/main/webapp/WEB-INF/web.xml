@@ -8,7 +8,7 @@
     <init-param>
       <param-name>contextConfigLocation</param-name>
       <!--制定文件位置-->
-      <param-value>classpath:springmvc.xml</param-value>
+      <param-value>classpath:WEB-INF/springmvc.xml</param-value>
 
     </init-param>
     <!--tomcat启动后，创建此servlet对象-->
