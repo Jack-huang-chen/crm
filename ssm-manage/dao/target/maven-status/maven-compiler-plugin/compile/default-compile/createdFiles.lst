@@ -1,7 +1,0 @@
-com\study\dao\IProductDao.class
-com\study\dao\RoleDao.class
-com\study\dao\PermissionDao.class
-com\study\dao\UserInfoDao.class
-com\study\dao\MemberDao.class
-com\study\dao\OrderDao.class
-com\study\dao\TravellerDao.class
