@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ch06-AspectJ" />
+        <module name="ch08-transation-anno" />
+        <module name="ch08-transation" />
+        <module name="ch01-diSetting" />
+        <module name="ch07-spring-mybatis" />
+        <module name="ch01-helloSpring" />
+        <module name="ch08-transation-aspect" />
+        <module name="ch08-spring-web" />
+        <module name="ch-04-anno" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ch-04-anno" target="9" />
+      <module name="ch01-diSetting" target="9" />
+      <module name="ch01-helloSpring" target="9" />
+      <module name="ch06-AspectJ" target="9" />
+      <module name="ch06-spring-mybatis" target="1.7" />
+      <module name="ch07-spring-mybatis" target="1.8" />
+      <module name="ch08-spring-web" target="9" />
+      <module name="ch08-transation" target="9" />
+      <module name="ch08-transation-anno" target="9" />
+      <module name="ch08-transation-aspect" target="9" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+com\study\service\OrderService.class
+com\study\service\UserService.class
+com\study\service\IProductService.class
+com\study\service\imp\OrderServiceImp.class
+com\study\service\imp\IProductServiceImp.class
+com\study\service\imp\UserServiceImp.class

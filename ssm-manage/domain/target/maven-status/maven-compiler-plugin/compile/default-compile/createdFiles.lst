@@ -1,0 +1,7 @@
+com\study\domain\Product.class
+com\study\domain\Role.class
+com\study\domain\Permission.class
+com\study\domain\Traveller.class
+com\study\domain\Member.class
+com\study\domain\Orders.class
+com\study\domain\UserInfo.class

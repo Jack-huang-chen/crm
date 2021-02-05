@@ -10,6 +10,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>utils</artifactId>
-
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>9.0</maven.compiler.source>
+        <maven.compiler.target>9.0</maven.compiler.target>
+    </properties>
 
 </project>
